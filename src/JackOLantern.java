@@ -6,8 +6,21 @@ public class JackOLantern {
         this.face = face;
     }
 
-    public 
+    public void edit(String replace,String row,String column)
+    {
 
+    }
+
+    public String toString()
+    {
+
+        face[][]
+    }
+
+    public void fill(String str)
+    {
+
+    }
 
 
 
